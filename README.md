@@ -1,1 +1,1 @@
-# automation_project
+This project automates the login process for the ACME Demo App using Python and Selenium. The script navigates to the demo site, inputs the username and password, checks the "Remember Me" checkbox, and clicks the login button.
